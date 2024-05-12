@@ -3,8 +3,7 @@ import { comma } from 'postcss/lib/list'
 
 
 const initialState = {
-    todos: [
-    ]
+    todos: []
 }
 
 
